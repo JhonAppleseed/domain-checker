@@ -1,2 +1,2 @@
-## DOMAIN CHECKER
-# Version 1.0
+# DOMAIN CHECKER
+## Version 1.0
