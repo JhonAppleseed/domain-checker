@@ -1,0 +1,7 @@
+{
+  "name": "Domain Checker",
+  "version": "1.0",
+  "description": "Checks DNS and HTTP information.",
+  "icon": "icon.png",
+  "start": "start.sh"
+}
